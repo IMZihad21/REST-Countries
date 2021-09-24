@@ -1,0 +1,9 @@
+.country-container {
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.country-container img {
+  width: 200px;
+}
